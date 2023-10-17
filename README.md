@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋, Burak Odabasi
+#### Jr.Full Stack Developer
+I continue to develop projects in the Frontend part, I continue to improve myself in the Backend part
 
-<!--
-**BurakOdabasi/BurakOdabasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: HTML /CSS /BOOTSTRAP /JS /REACT /JQUERY /PYTHON /DJANGO /SQLITE
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Zenit Watch E-commerce 
+- 📫 How to reach me: burak.odabasii@outlook.com 
+- ⚡ Fun fact: I am funny )::) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BurakOdabasi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/burak-odabasi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/codepen)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=BurakOdabasi)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BurakOdabasi)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BurakOdabasi&show_icons=true)  
+
